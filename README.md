@@ -1,1 +1,1 @@
-# SeizPazosGitComandos
+Raúl Seiz Pazos
